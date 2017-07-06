@@ -1,1 +1,1 @@
-# practice
+# This project contains random code snippet
